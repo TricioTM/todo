@@ -6,7 +6,7 @@ import ToDoList from "@/components/ToDoList";
 export default function Home() {
   return (
     <div>
-      <AddtoDo />
+      <AddToDo />
       <ToDoList />
     </div>
   );
